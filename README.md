@@ -71,7 +71,7 @@ You can open an issue and list Your ideas there.
 
 ### Socials & Contact
 If You'd like to get in contact or stay up-to-date, You can do so, using the links and info below:  
-<img src="https://img.icons8.com/ios-filled/50/ffffff/facebook.png" width="20"/> [Facebook](https://google.com/404)  
+<img src="https://img.icons8.com/ios-filled/20/ffffff/facebook.png" align="center"/> [Facebook](https://google.com/404)  
 [Instagram](https://google.com/404)  
 [Threads](https://google.com/404)  
 [WhatsApp](https://google.com/404)  
