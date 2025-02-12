@@ -1,4 +1,4 @@
-<img src="https://via.placeholder.com/2000x1000/000000/FFFFFF?text= " width="100%">
+<img src="https://via.placeholder.com/2000x1000/000000?text= " width="100%">
 
 ![title](https://github.com/user-attachments/assets/35e1aed9-8a88-473a-828c-7e28521a8d81)
 
