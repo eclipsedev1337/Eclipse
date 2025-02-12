@@ -72,16 +72,16 @@ You can open an issue and list Your ideas there.
 ### Socials & Contact
 If You'd like to get in contact or stay up-to-date, You can do so, using the links and info below:  
 <img src="https://img.icons8.com/ios-filled/20/ffffff/facebook.png" align="center"/> [Facebook](https://google.com/404)  
-[Instagram](https://google.com/404)  
-[Threads](https://google.com/404)  
-[WhatsApp](https://google.com/404)  
-[Telegram](https://google.com/404)  
-[SnapChat](https://google.com/404)  
-[TikTok](https://google.com/404)  
-[Twitter](https://google.com/404)  
-[Reddit](https://google.com/404)  
-[Pinterest](https://google.com/404)  
-[Discord](https://google.com/404)  
-[YouTube](https://google.com/404)  
+<img src="https://img.icons8.com/ios-filled/20/ffffff/instagram.png" align="center"/> [Instagram](https://google.com/404)  
+<img src="https://img.icons8.com/ios-filled/20/ffffff/threads.png" align="center"/> [Threads](https://google.com/404)  
+<img src="https://img.icons8.com/ios-filled/20/ffffff/whatsapp.png" align="center"/> [WhatsApp](https://google.com/404)  
+<img src="https://img.icons8.com/ios-filled/20/ffffff/telegram.png" align="center"/> [Telegram](https://google.com/404)  
+<img src="https://img.icons8.com/ios-filled/20/ffffff/snapcaht.png" align="center"/> [SnapChat](https://google.com/404)  
+<img src="https://img.icons8.com/ios-filled/20/ffffff/tiktok.png" align="center"/> [TikTok](https://google.com/404)  
+<img src="https://img.icons8.com/ios-filled/20/ffffff/twitter.png" align="center"/> [Twitter](https://google.com/404)  
+<img src="https://img.icons8.com/ios-filled/20/ffffff/reddit.png" align="center"/> [Reddit](https://google.com/404)  
+<img src="https://img.icons8.com/ios-filled/20/ffffff/pinterest.png" align="center"/> [Pinterest](https://google.com/404)  
+<img src="https://img.icons8.com/ios-filled/20/ffffff/discord.png" align="center"/> [Discord](https://google.com/404)  
+<img src="https://img.icons8.com/ios-filled/20/ffffff/youtube.png" align="center"/> [YouTube](https://google.com/404)  
 
 Email: eclipse.developments@outlook.com
