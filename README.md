@@ -1,3 +1,5 @@
+![title](https://github.com/user-attachments/assets/35e1aed9-8a88-473a-828c-7e28521a8d81)
+
 ### About
 ***Eclipse*** is My website. It's goal is to put all of My projects and services all in one place. Everything hosted on My GitHub can be found on the site. I want a singular place where Everyone can access what They're looking for, with ease.
 
