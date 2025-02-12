@@ -7,35 +7,35 @@
 
 ### Download The App
 Want to access the website from Your desktop? Or maybe You want to take ***Eclipse*** on the go? Feel free to download the WebView Windows or Android app:  
-<img src="https://img.icons8.com/ios-filled/20/ffffff/download.png" align="center"/> [Windows](https://google.com/404)  
-<img src="https://img.icons8.com/ios-filled/20/ffffff/download.png" align="center"/> [Android](https://google.com/404)  
+[Windows](https://google.com/404)  
+[Android](https://google.com/404)  
 
 Please note that the Windows WebView will run on Windows 7, 8, 10 and 11 only. The Android WebView is universal (ARM7 and ARM8).
 
 ---  
 
 ### Projects
-<img src="https://img.icons8.com/ios-filled/20/ffffff/android.png" align="center"/> [Android Apps](https://google.com/404) `A collection of modified apps for Android, as well as apps I've developed Myself.`  
-<img src="https://img.icons8.com/ios-filled/20/ffffff/globe.png" align="center"/> [Websites](https://google.com/404) `A list of all the websites I've designed and developed.`  
-<img src="https://img.icons8.com/ios-filled/20/ffffff/code.png" align="center"/> [Scripts](https://google.com/404) `A collection of scripts I've created.`  
-<img src="https://img.icons8.com/ios-filled/20/ffffff/question.png" align="center"/> [Other](https://google.com/404) `A miscelaneous category, featuring unsorted projects.`  
+[Android Apps](https://google.com/404) `A collection of modified apps for Android, as well as apps I've developed Myself.`  
+[Websites](https://google.com/404) `A list of all the websites I've designed and developed.`  
+[Scripts](https://google.com/404) `A collection of scripts I've created.`  
+[Other](https://google.com/404) `A miscelaneous category, featuring unsorted projects.`  
 
 ---  
 
 ### Services
-<img src="https://img.icons8.com/ios-filled/20/ffffff/media.png" align="center"/> [Cheap Subscriptions](https://google.com/404) `A wide variety of cheap subscriptions for social, entertainment and gaming platforms.`  
-<img src="https://img.icons8.com/ios-filled/20/ffffff/target.png" align="center"/> [IP Stresser](https://google.com/404) `An advanced IP stresser that supports over 60 L4 and L7 methods.`  
-<img src="https://img.icons8.com/ios-filled/20/ffffff/search.png" align="center"/> [OSINT Investigation](https://google.com/404) `An investigation on a Target, using open source and public info.`  
-<img src="https://img.icons8.com/ios-filled/20/ffffff/bell.png" align="center"/> [Social Media Marketing](https://google.com/404) `A wide variety of cheap and affordable SMM packages and bundles.`  
+[Cheap Subscriptions](https://google.com/404) `A wide variety of cheap subscriptions for social, entertainment and gaming platforms.`  
+[IP Stresser](https://google.com/404) `An advanced IP stresser that supports over 60 L4 and L7 methods.`  
+[OSINT Investigation](https://google.com/404) `An investigation on a Target, using open source and public info.`  
+[Social Media Marketing](https://google.com/404) `A wide variety of cheap and affordable SMM packages and bundles.`  
 
 ---  
 
 ### Documentation
 If You'd like to read through the official documentation, You can do so:  
-<img src="https://img.icons8.com/ios-filled/20/ffffff/document.png" align="center"/> [Terms Of Service](https://google.com/404)  
-<img src="https://img.icons8.com/ios-filled/20/ffffff/document.png" align="center"/> [Code Of Conduct](https://google.com/404)  
-<img src="https://img.icons8.com/ios-filled/20/ffffff/document" align="center"/> [Privacy Policy](https://google.com/404)  
-<img src="https://img.icons8.com/ios-filled/20/ffffff/document.png" align="center"/> [Legal](https://google.com/404)  
+- [Terms Of Service](https://google.com/404)  
+- [Code Of Conduct](https://google.com/404)  
+- [Privacy Policy](https://google.com/404)  
+- [Legal](https://google.com/404)  
 
 ---  
 
