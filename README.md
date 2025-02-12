@@ -66,3 +66,22 @@ You can open an issue and list Your ideas there.
 
 > [!caution]
 > Please be aware that some source code of this temporary site will be used in the actual site. So a lot of dynamic features won't work for this version hosted on GitHub.
+
+---  
+
+### Socials & Contact
+If You'd like to get in contact or stay up-to-date, You can do so, using the links and info below:  
+[Facebook](https://google.com/404)  
+[Instagram](https://google.com/404)  
+[Threads](https://google.com/404)  
+[WhatsApp](https://google.com/404)  
+[Telegram](https://google.com/404)  
+[SnapChat](https://google.com/404)  
+[TikTok](https://google.com/404)  
+[Twitter](https://google.com/404)  
+[Reddit](https://google.com/404)  
+[Pinterest](https://google.com/404)  
+[Discord](https://google.com/404)  
+[YouTube](https://google.com/404)  
+
+Email: eclipse.developments@outlook.com
