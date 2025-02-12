@@ -2,7 +2,7 @@
 
 ### About
 ***Eclipse*** is My website. It's goal is to put all of My projects and services all in one place. Everything hosted on My GitHub can be found on the site. I want a singular place where Everyone can access what They're looking for, with ease.
-
+<br>  
 ---
 
 ### Download The App
@@ -11,7 +11,7 @@ Want to access the website from Your desktop? Or maybe You want to take ***Eclip
 [Android](https://google.com/404)  
 
 Please note that the Windows WebView will run on Windows 7, 8, 10 and 11 only. The Android WebView is universal (ARM7 and ARM8).
-
+<br>  
 ---
 
 ### Projects
@@ -19,7 +19,7 @@ Please note that the Windows WebView will run on Windows 7, 8, 10 and 11 only. T
 [Websites](https://google.com/404) `A list of all the websites I've designed and developed.`  
 [Scripts](https://google.com/404) `A collection of scripts I've created.`  
 [Other](https://google.com/404) `A miscelaneous category, featuring unsorted projects.`  
-
+<br>  
 ---
 
 ### Services
@@ -27,7 +27,7 @@ Please note that the Windows WebView will run on Windows 7, 8, 10 and 11 only. T
 [IP Stresser](https://google.com/404) `An advanced IP stresser that supports over 60 L4 and L7 methods.`  
 [OSINT Investigation](https://google.com/404) `An investigation on a Target, using open source and public info.`  
 [Social Media Marketing](https://google.com/404) `A wide variety of cheap and affordable SMM packages and bundles.`  
-
+<br>  
 ---
 
 ### Documentation
@@ -36,7 +36,7 @@ If You'd like to read through the official documentation, You can do so:
 [Code Of Conduct](https://google.com/404)  
 [Privacy Policy](https://google.com/404)  
 [Legal](https://google.com/404)  
-
+<br>  
 ---
 
 ### FAQ
@@ -56,12 +56,12 @@ Bank transfer, *some* gift cards, PayPal, Venmo, CashApp, Crypto and more.
 <summary>How do I suggest new features or content for the site?</summary>
 You can open an issue and list Your ideas there.
 </details>
-
+<br>  
 ---
 
 > [!NOTE]
 > Only one Developer is working on this version of the site. So please be patient regarding its development.
-
+<br>  
 ---
 
 > [!caution]
