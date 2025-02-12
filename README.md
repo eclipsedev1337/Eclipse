@@ -76,7 +76,7 @@ If You'd like to get in contact or stay up-to-date, You can do so, using the lin
 <img src="https://img.icons8.com/ios-filled/20/ffffff/threads.png" align="center"/> [Threads](https://google.com/404)  
 <img src="https://img.icons8.com/ios-filled/20/ffffff/whatsapp.png" align="center"/> [WhatsApp](https://google.com/404)  
 <img src="https://img.icons8.com/ios-filled/20/ffffff/telegram.png" align="center"/> [Telegram](https://google.com/404)  
-<img src="https://img.icons8.com/ios-filled/20/ffffff/snapcaht.png" align="center"/> [SnapChat](https://google.com/404)  
+<img src="https://img.icons8.com/ios-filled/20/ffffff/snapchat.png" align="center"/> [SnapChat](https://google.com/404)  
 <img src="https://img.icons8.com/ios-filled/20/ffffff/tiktok.png" align="center"/> [TikTok](https://google.com/404)  
 <img src="https://img.icons8.com/ios-filled/20/ffffff/twitter.png" align="center"/> [Twitter](https://google.com/404)  
 <img src="https://img.icons8.com/ios-filled/20/ffffff/reddit.png" align="center"/> [Reddit](https://google.com/404)  
